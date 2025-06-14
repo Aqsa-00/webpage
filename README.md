@@ -20,12 +20,11 @@ A simple and visually appealing website built using **HTML**, **CSS**, and **CSS
 - CSS Animations / Transitions
 - Google Fonts ("Poppins")
 
-
 ## 📷 Screenshots
 
 [website screenshot](screenshot.png)
 
  Clone the repository:
    ```bash
-   git clone https://github.com/Aqsa-00/webpage/blob/main/index.html
+   git clone https://github.com/Aqsa-00/webpage
    
