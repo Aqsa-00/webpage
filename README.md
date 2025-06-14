@@ -19,11 +19,7 @@ A simple and visually appealing website built using **HTML**, **CSS**, and **CSS
 - CSS3
 - CSS Animations / Transitions
 - Google Fonts ("Poppins")
-- Media Queries for responsiveness
 
-# 💻 Live Demo
-
-👉 [Add your GitHub Pages or Netlify URL here]
 
 ## 📷 Screenshots
 
@@ -31,4 +27,5 @@ A simple and visually appealing website built using **HTML**, **CSS**, and **CSS
 
  Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/animated-web-project.git
+   git clone https://github.com/Aqsa-00/webpage/blob/main/index.html
+   
